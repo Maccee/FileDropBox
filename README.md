@@ -1,5 +1,7 @@
 # File Drop Box - NEXT.JS
 
+![Screenshot of the application](./filedropbox.png)
+
 This provides a simple interface for users to select files by dragging and dropping files directly into the browser window.
 
 ## Features
